@@ -1,4 +1,3 @@
-# <br>
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Souravh%20Choursiya&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Research%20Interest:%20Finance%20and%20International%20Business&descSize=20&descAlignY=60"
