@@ -27,7 +27,7 @@
       src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"
       alt="ResearchGate"
   /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="blank"
+  <a href="https://scholar.google.com/citations?user=rgduYt4AAAAJ" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"
